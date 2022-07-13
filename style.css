@@ -1,0 +1,35 @@
+body {
+  background-color: #0e185f;
+  color: #2fa4ff;
+  font-family: "Orbitron", sans-serif;
+  font-size: 1.9em;
+}
+
+.inf {
+  margin: auto;
+  width: 700px;
+  text-align: left;
+}
+
+span {
+  font-size: 50px;
+}
+
+th {
+  width: 700px;
+  height: 100px;
+}
+
+.value {
+  text-align: center;
+  border: 5px solid #2fa4ff;
+}
+input {
+  background-color: #2fa4ff;
+  font-size: 1.2em;
+}
+
+.new-value {
+  color: #00ffdd;
+  font-weight: 700;
+}
